@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai&family=Signika:wght@500&display=swap');
+
+.App {
+  text-align: center;
+  font-family: 'Almarai', sans-serif;
+}
+
+.navbar {
+  font-family: 'Signika', sans-serif;
+  color: rgb(48, 55, 59);
+}
+
+.input-group {
+  width: 60%;
+}
+
+.btn {
+  background-color: rgb(48, 55, 59);
+}
+
+.card {
+  max-width: 60%;
+  background-color: rgb(48, 55, 59);
+
+}
+
+.card-title {
+  position: absolute;
+  padding: 20px;
+}
+
+.card-date {
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 60px;
+}
+
+.card-temp {
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 280px;
+  font-size: 50px;
+}
+
+.card-desc {
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 340px;
+}
